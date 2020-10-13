@@ -1,6 +1,6 @@
 window.onload=function(){
     new Typed('#typed',{
-        strings:["Ankit Pahwa 😎","Full Stack Developer 🖥️","Data Structures And Algo Lover 💖","Football Fanatic ⚽","Ironman😅"],
+        strings:["Ankit Pahwa 😎","Full Stack Developer 🖥️","DS Algo Lover 💖","Football Fanatic ⚽","Ironman😅"],
         typeSpeed:50,
         backSpeed:50,
         backDelay:2000,
